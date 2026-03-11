@@ -20,13 +20,6 @@ const students = [
 
 ]
 
-
-///const avgGrade = (students[x]) => {
-
-   // return true;
-// }
-
-
 function avgGrade(student) {
     let sum = 0;
     let avg = 0;
